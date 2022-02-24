@@ -372,7 +372,7 @@ a:hover {
 
 .text-center.black {
     font-size: 16px;
-    filter: contrast(2);
+    filter: contrast(3);
 }
 
 .bloc-lg h2 {
