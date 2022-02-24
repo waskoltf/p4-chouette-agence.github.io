@@ -372,6 +372,7 @@ a:hover {
 
 .text-center.black {
     font-size: 16px;
+    filter: contrast(2);
 }
 
 .bloc-lg h2 {
@@ -798,6 +799,7 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
+    filter: contrast(1);
 }
 
 .tc-white {
