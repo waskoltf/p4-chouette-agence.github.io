@@ -371,7 +371,8 @@ a:hover {
 }
 
 .text-center.black {
-    font-size: 15px;
+    font-size: 16px;
+    filter: contrast(2);
 }
 
 .bloc-lg h2 {
