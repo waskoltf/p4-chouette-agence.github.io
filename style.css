@@ -376,6 +376,7 @@ a:hover {
 
 .bloc-lg h2 {
     font-size: 18px;
+    /* color: white; */
 }
 
 @media (min-width: 768px) {
@@ -799,7 +800,8 @@ h4 {
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: white!important;
+    filter: contrast(1);
 }
 
 .btn-atomic-tangerine {
