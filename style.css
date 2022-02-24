@@ -372,12 +372,12 @@ a:hover {
 
 .text-center.black {
     font-size: 16px;
-    filter: contrast(3);
 }
 
 .bloc-lg h2 {
     font-size: 18px;
     /* color: white; */
+    filter: contrast(1);
 }
 
 @media (min-width: 768px) {
