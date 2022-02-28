@@ -853,8 +853,11 @@ h4 {
     background-image: url("img/lines-h2-bg.png");
 }
 
+
+/* changement d'encode jpg to bmp */
+
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere.bmp");
 }
 
 .bg-presentation {
